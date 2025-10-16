@@ -7,9 +7,6 @@ by Willmet
 - Supports Apache/Nginx (combined/common/vhost)
 - Auto format detection
 - Accepts .log, .txt, .gz, etc.
-- Colored output (via colorama)
-- Ctrl+C safe
-- Clears screen before and after
 - Writes results to ./Results/
 """
 
